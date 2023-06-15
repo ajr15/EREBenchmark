@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "RUNNING NH3+O2"
+/home/shaharpit/miniconda3/envs/torinanet/bin/python network_structure_analysis.py ../full_enum/nh3+o2/rxn_graph.rxn results/network_structure/full_nh3+o2
+/home/shaharpit/miniconda3/envs/torinanet/bin/python network_structure_analysis.py ../experimental_networks/curated/nh3+o2_8.rxn results/network_structure/exp_nh3+o2
+echo "RUNNING NH3+O2+H2"
+/home/shaharpit/miniconda3/envs/torinanet/bin/python network_structure_analysis.py ../full_enum/nh3+o2+h2/rxn_graph.rxn results/network_structure/full_nh3+o2+h2
+/home/shaharpit/miniconda3/envs/torinanet/bin/python network_structure_analysis.py ../experimental_networks/curated/nh3+o2+h2_8.rxn results/network_structure/exp_nh3+o2+h2
