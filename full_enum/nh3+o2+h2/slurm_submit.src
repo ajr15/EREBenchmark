@@ -1,0 +1,17 @@
+#!/bin/bash
+#SBATCH --array=1-0
+#SBATCH --mem=8GB
+#SBATCH -n 4
+#SBATCH -N 1
+#SBATCH -J nh3+o2+h2
+#SBATCH --output=/dev/null
+
+# #SBATCH --output=%a.out
+# #SBATCH --error=%a.out
+
+args_file=slurm_args.txt
+# get the i-th line of the param file
+run_command=$(sed -n "$SLURM_ARRAY_TASK_ID"p "$args_file")
+
+# running
+$run_command
