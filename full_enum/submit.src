@@ -1,5 +1,5 @@
 reactions=( "nh3+o2" "nh3+o2+h2" "nh3+o2+ch4" )
-#reactions=( "nh3+o2+ch4" )
+#reactions=( "nh3+o2" )
 for reaction in ${reactions[@]}; do
     echo "submitting job $reaction"
     mkdir $reaction
@@ -25,6 +25,6 @@ for reaction in ${reactions[@]}; do
     # copying DB file
     cp ../db_files/$reaction.db $reaction/main.db
     # running
-    sbatch -n 16 -o "$reaction/$reaction.out" -e "$reaction/$reaction.out" --exclude="node025,node017,node026,node027" -J "$reaction" helper.src run.py $reaction 
+    bash helper.src run.py $reaction > $reaction/$reaction.out
 done
  

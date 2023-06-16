@@ -148,7 +148,7 @@ def get_summary_df(use_mvc=True):
             source_str = "exp"
         else:
             source_str = "exp_" + source
-        cls_net = utils.get_network(source="cls", reaction=reaction, iteration=utils.last_reaction_iteration[reaction], graph_type="crud_graph")
+        cls_net = utils.get_network(source="cls", reaction=reaction, iteration=utils.last_reaction_iteration[reaction], graph_type="leaf_energy_reduced_graph")
         print("CLS SPECIES", cls_net.get_n_species())
         print("CLS RXNS", cls_net.get_n_reactions())
         exp_net = utils.get_network(source=source_str, reaction=reaction, iteration=utils.last_reaction_iteration[reaction])
@@ -173,7 +173,7 @@ def get_summary_df(use_mvc=True):
                 d["source"] = source
                 d["energy"] = energy
                 res = res.append(d, ignore_index=True)
-                res.to_csv("/home/shaharpit/Personal/EREBenchmark/analyze/results/compare_to_experiments.csv")
+                res.to_csv("../analysis_results/compare_to_experiments.csv")
         else:
             mvc_net = tn.core.RxnGraph()
             d = get_exp_graph_disections(exp_net, cls_net, mvc_net, focus="species", use_mvc=use_mvc)
@@ -186,7 +186,7 @@ def get_summary_df(use_mvc=True):
             d["reaction"] = reaction
             d["source"] = source
             res = res.append(d, ignore_index=True)
-            res.to_csv("/home/shaharpit/Personal/EREBenchmark/analyze/results/compare_to_experiments.csv")
+            res.to_csv("../analysis_results/compare_to_experiments.csv")
             missing_reactions_categories(exp_net, cls_net)
 
 if __name__ == "__main__":

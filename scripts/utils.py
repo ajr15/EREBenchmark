@@ -5,9 +5,9 @@ import os
 import torinanet as tn
 
 source_parent_dirs = {
-    "exp": "/home/shaharpit/Personal/EREBenchmark/experimental_networks/curated",
-    "cls": "/home/shaharpit/Personal/EREBenchmark/full_enum",
-    "mvc": "/home/shaharpit/Personal/EREBenchmark/mvc_enum"
+    "exp": "/home/shachar/repos/EREBenchmark/experimental_networks/curated",
+    "cls": "/home/shachar/repos/EREBenchmark/full_enum",
+    "mvc": "/home/shachar/repos/EREBenchmark/mvc_enum"
 }
 
 last_reaction_iteration = {
