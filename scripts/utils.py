@@ -24,27 +24,27 @@ mvc_energies = {
     "nh3+o2+h2": [-0.8, -0.65, -0.5, -0.3]
 }
 
-def get_network(source: str, reaction: str, iteration: int=3, graph_type: str="energy_reduced_graph",  min_electron_energy: float=-8., timestamp: Optional[str]=None):
-    if source == "cls":
-        internal_path = os.path.join(reaction, str(iteration), graph_type + ".rxn")
-    elif source == "mvc":
-        internal_path = os.path.join("energy_{}".format(min_electron_energy), reaction, str(iteration), graph_type + ".rxn")
-    elif "exp" in source:
+def get_network(source: str, reaction: str, iteration: int=-1, graph_type: str="rxn_graph", timestamp: Optional[str]=None):
+    if "exp" in source:
         if "_" in source:
             prefix = source.split("_")[-1] + "_"
         else:
             prefix = ""
         return tn.core.RxnGraph.from_file(os.path.join(
             source_parent_dirs["exp"],
-            prefix + "_".join([reaction, str(iteration)]) + ".rxn"
+            prefix + "_".join([reaction]) + ".rxn"
         ))
+    elif source == "cls":
+        if iteration == -1:
+            internal_path = os.path.join(reaction, "rxn_graph.rxn")
+        else:
+            internal_path = os.path.join(reaction, str(iteration), graph_type + ".rxn")
     else:
         raise ValueError("Uknown source {}".format(source))
     if timestamp is not None:
         parent = os.path.join(source_parent_dirs[source], "archive", timestamp)
     else:
         parent = source_parent_dirs[source]
-    print("READING FROM", os.path.join(parent, internal_path))
     return tn.core.RxnGraph.from_file(os.path.join(parent, internal_path))
 
 def reaction_energy(rxn: tn.core.Reaction):
