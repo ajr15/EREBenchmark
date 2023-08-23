@@ -1,0 +1,17 @@
+,all_shared,exp_and_cls,unique_exp,unique_cls,focus,reaction,source
+0,0.0,26.0,4.0,69.0,species,nh3+o2,konnov2009
+1,0.0,341.0,129.0,19755.0,reactions,nh3+o2,konnov2009
+2,0.0,24.0,0.0,71.0,species,nh3+o2,okafor2018
+3,0.0,147.0,45.0,19949.0,reactions,nh3+o2,okafor2018
+4,0.0,22.0,0.0,73.0,species,nh3+o2,miller
+5,0.0,80.0,15.0,20016.0,reactions,nh3+o2,miller
+6,0.0,26.0,4.0,68.0,species,nh3+o2+h2,konnov2009
+7,0.0,315.0,155.0,13723.0,reactions,nh3+o2+h2,konnov2009
+8,0.0,24.0,0.0,70.0,species,nh3+o2+h2,okafor2018
+9,0.0,137.0,55.0,13901.0,reactions,nh3+o2+h2,okafor2018
+10,0.0,22.0,0.0,72.0,species,nh3+o2+h2,miller
+11,0.0,74.0,21.0,13964.0,reactions,nh3+o2+h2,miller
+12,0.0,57.0,66.0,114.0,species,nh3+o2+ch4,konnov2009
+13,0.0,746.0,1573.0,76053.0,reactions,nh3+o2+ch4,konnov2009
+14,0.0,47.0,10.0,124.0,species,nh3+o2+ch4,okafor2018
+15,0.0,313.0,345.0,76486.0,reactions,nh3+o2+ch4,okafor2018

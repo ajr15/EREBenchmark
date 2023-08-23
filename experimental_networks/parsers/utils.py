@@ -1,3 +1,4 @@
+import numpy as np
 from typing import List, Optional
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -39,6 +40,9 @@ class DummyReaction:
 
     def __hash__(self):
         return hash("{}->{}".format("+".join(self.reactants), "+".join(self.products)))
+    
+    def __repr__(self):
+        return "DummyReaction(\"{}->{}\")".format("+".join(self.reactants), "+".join(self.products))
 
 
 def build_rxn_tree(reactions: List[DummyReaction], source_species: List[str], n_iters: int):
@@ -105,5 +109,22 @@ def update_specie_energies(db_path, rxn_graph) -> tn.core.RxnGraph:
             ajr.properties["energy"] = float(energy)
     for s in rxn_graph.species:
         if not "energy" in s.properties:
-            print(s.identifier, "IS A MOTHER F!*&#@ !")
+            print(s.identifier, "DOESNT HAVE CALCULATED ENERGY!")
     return rxn_graph
+
+def make_atom_count_vector(specie: tn.core.Specie) -> np.array:
+    ajr = np.zeros(10)
+    for atom in specie.ac_matrix.get_atoms():
+        ajr[atom] += 1
+    return ajr
+
+def valid_rxn_graph(rxn_graph: tn.core.RxnGraph) -> bool:
+    """Validator for reaciton graphs, it makes sure every reaction has atom conservation and electron conservation"""
+    valid = True
+    for rxn in rxn_graph.reactions:
+        r_vec = sum([make_atom_count_vector(m) for m in rxn.reactants])
+        p_vec = sum([make_atom_count_vector(m) for m in rxn.products])
+        if any(r_vec != p_vec):
+            print(rxn.pretty_string(), "IS NOT VALID")
+            valid = False
+    return valid

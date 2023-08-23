@@ -23,7 +23,7 @@ for reaction in ${reactions[@]}; do
     # deleting prev run
     rm $reaction/*
     # copying DB file
-    cp ../db_files/$reaction.db $reaction/main.db
+    cp ../db_files/joined.db $reaction/main.db
     # running
     bash helper.src run.py $reaction > $reaction/$reaction.out
 done

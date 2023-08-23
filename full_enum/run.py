@@ -46,9 +46,7 @@ kw_dict = {
                     tn.iterate.ac_matrix_filters.MaxHeavyAtoms(3),
                 ],
              "reaction_energy_th": 0.15,
-              "sp_energy_th": 0.25,
-              "leaf_reaction_energy_th": 0,
-              "leaf_sp_energy_th": 0,
+              "sp_energy_th": 0.25
         },
     "ch3ch3": {
               "ac_filters": [

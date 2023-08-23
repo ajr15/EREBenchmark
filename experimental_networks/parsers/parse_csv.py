@@ -58,15 +58,11 @@ def read_csv(csv_file, parser, specie_file, source_species, n_iter):
 def make_networks(macro_iteration):
     # print("PARSING H2O")
     # read_csv("../raw/H2O.csv", h2o_parser, "../raw/specie_files/h2o.json", ["H2O"], 4, "../curated_networks/h2o.rxn")
-    print("PARSING NH3+O2")
     graph = read_csv("../raw/NH3+O2.csv", nh3_parser, "../raw/specie_files/nh3+o2.json", ["NH3", "O2"], macro_iteration)
-    update_specie_energies("../../db_files/nh3+o2.db", graph).save("../curated/nh3+o2_{}.rxn".format(macro_iteration))
+    update_specie_energies("../../db_files/joined.db", graph).save("../curated/miller_nh3+o2.rxn")
     graph = read_csv("../raw/NH3+O2.csv", nh3_parser, "../raw/specie_files/nh3+o2.json", ["NH3", "O2", "H2"], macro_iteration)
-    update_specie_energies("../../db_files/nh3+o2.db", graph).save("../curated/nh3+o2+h2_{}.rxn".format(macro_iteration))
+    update_specie_energies("../../db_files/joined.db", graph).save("../curated/miller_nh3+o2+h2.rxn")
 
 if __name__ == "__main__":
-    make_networks(1)
-    make_networks(2)
-    make_networks(3)
     make_networks(8)
 

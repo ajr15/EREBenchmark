@@ -1,12 +1,12 @@
 from typing import List
 import numpy as np
-from utils import DummyReaction, build_rxn_tree, get_species_list, init_species_file, dummy_reactions_to_graph, DummySpecie, update_specie_energies
+from utils import DummyReaction, build_rxn_tree, get_species_list, init_species_file, dummy_reactions_to_graph, DummySpecie, update_specie_energies, valid_rxn_graph
 
 def read_species_from_list(species_list: List[str]):
     res = []
     for s in species_list:
         s = s.strip()
-        if not "M" in s and len(s) > 0 and not s in ["AR", "N2", "HE"]:
+        if not "M" in s and len(s) > 0 and not s in ["AR", "HE"]:
             if s.endswith("("):
                 s = s[:-1].strip()
             if s[:1].isdigit():
@@ -119,7 +119,7 @@ def init_specie_files(ffcm_file, uscm_file):
     uscm_species = get_species_list(uscm_rxns)
     init_species_file(uscm_species, uscm_file)
 
-def make_networks(macro_iteration: int):
+def old_make_networks(macro_iteration: int):
     print("MAKING NETWORKS WITH {} MAX ITERATION".format(macro_iteration))
     ffcm_rxns = read_all_reactions("../raw/ffcm1.txt")
     uscm_rxns = read_all_reactions("../raw/uscm2.txt")
@@ -150,10 +150,29 @@ def make_networks(macro_iteration: int):
     g = dummy_reactions_to_graph(uscm_msr, "../raw/specie_files/uscm.json", [DummySpecie(s, 0, {}) for s in source_species])
     update_specie_energies("../../db_files/ch4+h2o.db", g).save("../curated/uscm_ch4+h2o_{}.rxn".format(macro_iteration))
 
-if __name__ == "__main__":
-    # init_specie_files("../raw/specie_files/ffcm.json", "../raw/specie_files/uscm.json")
-    make_networks(1)
-    make_networks(2)
-    make_networks(3)
-    make_networks(8)
+def make_network(source: str, source_species: List[str]):
+    print("reading {} reacitons...".format(source))
+    rxns = read_all_reactions("../raw/{}.txt".format(source))
+    print("total number of reactions:", len(rxns))
+    print("building reaction graph with {} source species...".format(" + ".join(source_species)))
+    g = build_rxn_tree(rxns, source_species, 8)
+    g = dummy_reactions_to_graph(g, "../raw/specie_files/{}.json".format(source), source_species)
+    print("n reactions:", g.get_n_reactions())
+    print("n species:", g.get_n_species())
+    print("validating graph...")
+    if valid_rxn_graph(g):
+        print("adding calculated specie energies when available...")
+        g = update_specie_energies("../../db_files/joined.db", g)
+        print("saving graph...")
+        g.save("../curated/{}_{}.rxn".format(source, "+".join(source_species).lower()))
+        print("done!")
+    else:
+        print("graph has invalid reactions! fix and try againd")
 
+if __name__ == "__main__":
+    make_network("konnov2009", ["NH3", "O2"])
+    make_network("konnov2009", ["NH3", "O2", "H2"])
+    make_network("konnov2009", ["NH3", "O2", "CH4"])
+    make_network("okafor2018", ["NH3", "O2"])
+    make_network("okafor2018", ["NH3", "O2", "H2"])
+    make_network("okafor2018", ["NH3", "O2", "CH4"])
