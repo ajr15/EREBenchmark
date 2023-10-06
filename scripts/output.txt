@@ -1,0 +1,5102 @@
+0
+N + [O] = [NH2] + [OH]
+*****
+*****
+[NH2] + [N]=O = N#N + O
+*****
+*****
+[N]=O + O = N=O + [OH]
+*****
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+*****
+*****
+[NH2] + O=O = N[O] + [O]
+*****
+*****
+[NH] + [N]=O = [N][NH] + [O]
+*****
+[NH2] + [O] = N=O + [H]
+*****
+*****
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+*****
+[O][N][O] + [OH] = O[O] + [N]=O
+*****
+[OH] + [OH] = OO
+*****
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+*****
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+*****
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+*****
+[NH] + [H] = [N] + [H][H]
+*****
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+*****
+[NH] + O=O = N=O + [O]
+*****
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+*****
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+*****
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+*****
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+*****
+[N]=O + O=O = [O][N][O] + [O]
+*****
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+*****
+*****
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+*****
+[NH2] + [O][N][O] = [N]O[N] + O
+*****
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+*****
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+*****
+[H] + O[O] = O=O + [H][H]
+*****
+O=O + [H][H] = [H] + O[O]
+*****
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+*****
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+*****
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+*****
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+*****
+[H] + O=O + O = O[O] + O
+*****
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+*****
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+*****
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+*****
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+*****
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+*****
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+*****
+[NH2] + [N]=O = [NH][NH] + [O]
+*****
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+*****
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+*****
+N#N + N = [N][NH] + [NH2]
+*****
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+*****
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+*****
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+*****
+N#N + [H] + O=O = [N][NH] + O=O
+*****
+N[NH] + O[O] = [NH][NH] + OO
+*****
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+*****
+*****
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+*****
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+*****
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+*****
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+1
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+*****
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+*****
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+*****
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+*****
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+*****
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+*****
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+2
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+3
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+4
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+5
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+6
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+7
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+8
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+9
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+10
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+11
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+12
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+13
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+14
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+15
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+16
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+17
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+18
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+19
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+20
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+21
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+22
+O[O] + N#N = [H] + O=O + N#N
+[N]O[N] + O = [NH2] + [O][N][O]
+N + [O] = [NH2] + [OH]
+[NH2] + [N]=O = N#N + O
+O[O] + [H][H] = [H] + OO
+[N][NH] + [NH] = N#N + [NH2]
+[N]=O + O = N=O + [OH]
+[NH][NH] + OO = N[NH] + O[O]
+[NH2] + O = N + [OH]
+[N]O[N] + [OH] = [NH] + [O][N][O]
+[NH2] + O=O = N[O] + [O]
+[NH] + [N]=O = [N][NH] + [O]
+[NH2] + [O] = N=O + [H]
+[NH] + [N] = N#N + [H]
+[NH] + O=O = [N]=O + [OH]
+[O][N][O] + [OH] = O[O] + [N]=O
+[OH] + [OH] = OO
+[N][NH] + O=O = N#N + [H] + O=O
+[N][NH] = N#N + [H]
+[N][NH] + [O] = [N]O[N] + [H]
+N=O = [H] + [N]=O
+N + [N] = [NH2] + [NH]
+[NH] + [NH] = N#N + [H] + [H]
+[H] + [H] + O = [H][H] + O
+[NH] + [H] = [N] + [H][H]
+[OH] = [O] + [H]
+[H] + [H] = [H][H]
+[N]O[N] = N#N + [O]
+O=O + O = [OH] + O[O]
+[NH] + O=O = N=O + [O]
+[O] + O = [H] + O[O]
+[O] + O[O] = [OH] + O=O
+[N]O[N] + [O] = N#N + O=O
+O=O = [O] + [O]
+N#N + [H] = [NH] + [N]
+N#N + O = [N][NH] + [OH]
+[O] + O = [OH] + [OH]
+[N][NH] + [N]=O = N#N + N=O
+N + O=O = [NH2] + O[O]
+N#N + N=O = [N][NH] + [N]=O
+[O] + [H][H] = [H] + [OH]
+O[O] + O[O] = O=O + OO
+N#N + [O] = [N] + [N]=O
+[H] + O=O = [O] + [OH]
+N[NH] + [H] = [NH][NH] + [H][H]
+[N]=O + O=O = [O][N][O] + [O]
+[N]O[N] + [OH] = N#N + O[O]
+[NH2] + [OH] = [NH] + O
+[O] + [H] = [OH]
+[NH2] + [NH] = [NH][NH] + [H]
+[NH2] + [O][N][O] = [N]O[N] + O
+OO = [OH] + [OH]
+N#N + [H][H] = [N][NH] + [H]
+[N][NH] + [NH2] = [NH][NH] + [NH]
+N=O + [OH] = [N]=O + O
+[NH2] + [NH2] = NN
+O=O + OO = O[O] + O[O]
+N#N + O[O] = [N][NH] + O=O
+[H] + O[O] = O=O + [H][H]
+O=O + [H][H] = [H] + O[O]
+[H] + OO = O[O] + [H][H]
+[NH2] + [O][N][O] = [NH] + O[N][O]
+O[O] + [N]=O = [O][N][O] + [OH]
+[H] + O=O + N#N = O[O] + N#N
+N#N + O=O = [N]O[N] + [O]
+N + [N]=O = [NH2] + N=O
+[NH2] + [NH2] = N + [NH]
+[H][H] + [H][H] = [H] + [H] + [H][H]
+N[O] + [OH] = N=O + O
+N#N + [H] + [H] = [NH2] + [N]
+[OH] + O[O] = [O] + OO
+[OH] + [OH] = [H] + O[O]
+N=O + [O] = [NH] + O=O
+[OH] + O=O = [O] + O[O]
+[H] + O=O + O = O[O] + O
+[H] + [H] + [H][H] = [H][H] + [H][H]
+[N]=O + [N]=O = [N]O[N] + [O]
+[N][NH] + [NH2] = N#N + N
+N[NH] + [NH] = [NH][NH] + [NH2]
+[NH][NH] + [O] = [NH2] + [N]=O
+[N]=O + [H] = [N] + [OH]
+[NH2] + N=O = N + [N]=O
+[N] + [H][H] = [NH] + [H]
+[N]=O + [O] = [N] + O=O
+N[NH] + O[O] = NN + O=O
+N=O + O=O = O[O] + [N]=O
+[N]O[N] + [H] = [NH] + [N]=O
+[NH] + [O][N][O] = [N]O[N] + [OH]
+[H] + O=O = O[O]
+[N][NH] + O = [NH][NH] + [OH]
+[O][N][O] + [H] = [N]=O + [OH]
+N#N + [O] = [N]O[N]
+[H] + O[O] = [O] + O
+N#N + [H] + [H] = [NH] + [NH]
+[NH] + [N]=O = N#N + [OH]
+[OH] + O[O] = O=O + O
+[NH2] + [H] = [NH] + [H][H]
+[NH] + [OH] = [NH2] + [O]
+O[O] + O=O = [H] + O=O + O=O
+[NH2] + [N]=O = [NH][NH] + [O]
+[H] + O[O] = [OH] + [OH]
+O = [H] + [OH]
+N=O + [H] = [H][H] + [N]=O
+[N]O[N] + [H] = N#N + [OH]
+[OH] + OO = O[O] + O
+[H] + [N]=O = N=O
+[O][N][O] = [N]=O + [O]
+[NH2] + [NH] = N + [N]
+N + [O][N][O] = [NH2] + O[N][O]
+[N]=O + [OH] = [NH] + O=O
+[N]=O + [OH] = [O][N][O] + [H]
+[NH][NH] + [OH] = [N][NH] + O
+[H][H] = [H] + [H]
+[N][NH] + [H] = N#N + [H][H]
+N[O] + [O] = [NH2] + O=O
+[N][NH] + [OH] = [NH][NH] + [O]
+[NH2] + [N] = N#N + [H] + [H]
+[O] + [OH] = [H] + O=O
+N#N + O = [NH2] + [N]=O
+[NH2] + O[O] = N + O=O
+[OH] + [H][H] = [H] + O
+[H][H] + [N]=O = N=O + [H]
+[NH][NH] + [H] = N[NH]
+N#N + N = [N][NH] + [NH2]
+[N][NH] + O=O = N#N + O[O]
+[NH][NH] + [H] = [N][NH] + [H][H]
+[OH] + O = [H] + OO
+[NH2] + [OH] = N + [O]
+NN = [NH2] + [NH2]
+[N]=O + [H] = [NH] + [O]
+NN + [O] = NO + [NH]
+[N] + [OH] = [N]=O + [H]
+N=O + [O][N][O] = O[N][O] + [N]=O
+[NH] + O[N][O] = [NH2] + [O][N][O]
+[NH] + [O] = [N]=O + [H]
+N=O + [O] = [N]=O + [OH]
+N=O + [H] = [NH] + [OH]
+[H] + OO = [OH] + O
+[N]=O + [O] = [O][N][O]
+O[O] + O = [H] + O=O + O
+[N][NH] + [H][H] = [NH][NH] + [H]
+O[O] + O = [OH] + OO
+[NH] + [OH] = [N] + O
+NN + O=O = N[NH] + O[O]
+N#N + [H] + O=O = [N][NH] + O=O
+N[NH] + O[O] = [NH][NH] + OO
+[N]=O + [OH] = N=O + [O]
+[NH] + [H][H] = [NH2] + [H]
+[N] + O=O = [N]=O + [O]
+N + [NH] = [NH2] + [NH2]
+[NH][NH] + [NH2] = N[NH] + [NH]
+N#N + [OH] = [NH] + [N]=O
+[N]O[N] + [O] = [N]=O + [N]=O
+[H] + [OH] = O
+N + [OH] = [NH2] + O
+O[N][O] + [N]=O = N=O + [O][N][O]
+[O][N][O] + [O] = [N]=O + O=O
+[H] + O=O + O=O = O[O] + O=O
+N=O + [H] = [NH2] + [O]
+N#N + [NH2] = [N][NH] + [NH]
+[N]O[N] + [H] = [N][NH] + [O]
+O[O] + [N]=O = N=O + O=O
+N + [H] = [NH2] + [H][H]
+[NH] + [OH] = N=O + [H]
+[N][NH] + [OH] = N#N + O
+[NH2] + O[N][O] = N + [O][N][O]
+[N][NH] + [O] = [NH] + [N]=O
+N[NH] = [NH][NH] + [H]
+[N] + [N]=O = N#N + [O]
+[NH][NH] + [H][H] = N[NH] + [H]
+[H] + [OH] = [O] + [H][H]
+N=O + O = N[O] + [OH]
+[NH][NH] + [NH] = [N][NH] + [NH2]
+[O] + OO = [OH] + O[O]
+N#N + O[O] = [N]O[N] + [OH]
+[NH][NH] + [O] = [N][NH] + [OH]
+[N][NH] + [OH] = [NH2] + [N]=O
+[O] + [O] = O=O
+[NH] + [N]=O = [N]O[N] + [H]
+[H] + O = [OH] + [H][H]
+[NH][NH] + [H] = [NH2] + [NH]
+NO + [NH] = NN + [O]
+[OH] + [OH] = [O] + O
+[NH2] + [H][H] = N + [H]
+[NH2] + [O] = [NH] + [OH]
+O[O] = [H] + O=O
+[H][H] + O = [H] + [H] + O
+N#N + [OH] = [N]O[N] + [H]
+N#N + [H] = [N][NH]
+[NH2] + [N]=O = [N][NH] + [OH]
+[N] + O = [NH] + [OH]
+[NH] + O = [NH2] + [OH]
+========
+N True
+O=O True
+O[O] False
+N#N False
+[H] False
+[N]O[N] False
+O False
+[NH2] False
+[O][N][O] False
+[OH] False
+[N]=O False
+[H][H] False
+OO False
+[N][NH] False
+[NH] False
+N=O False
+[NH][NH] False
+N[NH] False
+N[O] False
+NN False
+O[N][O] False
+NO False
+[O] False
+[N] False
+                                         dist  ...                                             specie
+43100120407835894721992311439360     1.000000  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+20769187434139347407610132735983616  1.000000  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+20931446868128917320903503458091008  0.062162  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+4835703278476108884869120            0.021692  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+0                                    0.018817  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+42187411975596655073431000102993920  0.000355  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+154742504946701365741109248          0.532439  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+2535301200458766897802970660864      0.532439  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+1210106411798296556208128            0.006786  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+154742504910672534362406912          0.180603  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+1180591620717428080640               0.113116  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+9671406556917033397649409            0.046955  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+20931448106068956608535578170900480  0.027993  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+43100163929091611638139598143488     0.000718  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+2535301200458764646002620104704      0.064431  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+12676506003465191478693673828864     0.089136  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+43105115689248753159239194705920     0.002956  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+43105118111827390823584476758016     0.024207  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+12676506004055489540852797145600     0.134941  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+43105118263533414085771829248000     0.064431  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+158370467573386108232286224          0.000924  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+41875570082683631213670610245796352  0.020715  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+40564819207303340847894502572032     0.134941  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+9903520314283042199192993792         0.017535  ...  <torinanet.core.Specie.Specie object at 0x7efd...
+
+[24 rows x 4 columns]
+N + [OH] = [NH2] + O
